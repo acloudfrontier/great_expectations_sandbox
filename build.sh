@@ -1,0 +1,1 @@
+docker build -t acloudfrontier/great_expectations_sandbox:latest .
